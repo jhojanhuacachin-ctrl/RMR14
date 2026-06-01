@@ -19,3 +19,9 @@ Para usar:
 - Se corrigió el descuadre del panel derecho.
 - Se ordenó el bloque del método de excavación.
 - Se adaptó mejor la grilla de tarjetas y el panel de detalle.
+
+
+## Cambios nuevos
+- Se agregó la fórmula principal RMR14 en grande al inicio.
+- Se eliminó el subtítulo “Clasificación del Macizo Rocoso – Español peruano”.
+- Se reemplazaron referencias visibles a RMR89 por “RMR corregido”.
